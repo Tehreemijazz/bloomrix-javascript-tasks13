@@ -1,0 +1,93 @@
+
+[
+    {
+        "id": 1,
+        "title": "HTML and CSS for Beginners",
+        "category": "Web Development",
+        "duration": 12,
+        "level": "Beginner",
+        "description": "Learn HTML structure, CSS styling, layouts and responsive website design.",
+        "icon": "🌐"
+    },
+    {
+        "id": 2,
+        "title": "JavaScript Fundamentals",
+        "category": "Programming",
+        "duration": 18,
+        "level": "Beginner",
+        "description": "Learn variables, functions, arrays, objects, DOM and JavaScript events.",
+        "icon": "💻"
+    },
+    {
+        "id": 3,
+        "title": "Python Programming",
+        "category": "Programming",
+        "duration": 20,
+        "level": "Beginner",
+        "description": "Understand Python syntax, loops, functions, data structures and OOP.",
+        "icon": "🐍"
+    },
+    {
+        "id": 4,
+        "title": "React Development",
+        "category": "Web Development",
+        "duration": 25,
+        "level": "Intermediate",
+        "description": "Build interactive web applications using modern React concepts.",
+        "icon": "⚛️"
+    },
+    {
+        "id": 5,
+        "title": "Database Management",
+        "category": "Database",
+        "duration": 15,
+        "level": "Intermediate",
+        "description": "Learn SQL, relational databases, queries and database design.",
+        "icon": "🗄️"
+    },
+    {
+        "id": 6,
+        "title": "Machine Learning Basics",
+        "category": "Artificial Intelligence",
+        "duration": 30,
+        "level": "Advanced",
+        "description": "Explore machine learning algorithms, model training and prediction.",
+        "icon": "🤖"
+    },
+    {
+        "id": 7,
+        "title": "UI and UX Design",
+        "category": "Design",
+        "duration": 14,
+        "level": "Beginner",
+        "description": "Learn user interface design, wireframes and user experience.",
+        "icon": "🎨"
+    },
+    {
+        "id": 8,
+        "title": "Node.js Backend Development",
+        "category": "Web Development",
+        "duration": 28,
+        "level": "Advanced",
+        "description": "Learn server-side JavaScript, APIs and backend development.",
+        "icon": "⚙️"
+    },
+    {
+        "id": 9,
+        "title": "SQL for Beginners",
+        "category": "Database",
+        "duration": 10,
+        "level": "Beginner",
+        "description": "Learn database queries, filtering, joins and SQL commands.",
+        "icon": "📊"
+    },
+    {
+        "id": 10,
+        "title": "Artificial Intelligence",
+        "category": "Artificial Intelligence",
+        "duration": 35,
+        "level": "Advanced",
+        "description": "Explore AI concepts, intelligent systems and practical applications.",
+        "icon": "🧠"
+    }
+]
